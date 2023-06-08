@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/prj.dir/fnc.cpp.o CMakeFiles/prj.dir/my_crypt.cpp.o -o ../bin/prj 

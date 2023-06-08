@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libdependencies-lib.a "CMakeFiles/dependencies-lib.dir/__/source/my_crypt.cpp.o"
+/usr/bin/ranlib ../lib/libdependencies-lib.a
