@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../lib/libtest_calses.a CMakeFiles/test_calses.dir/test_crypt.cpp.o
-/usr/bin/ranlib ../lib/libtest_calses.a

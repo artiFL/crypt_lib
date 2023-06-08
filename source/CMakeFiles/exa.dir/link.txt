@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/exa.dir/fnc.cpp.o -o ../bin/exa  ../lib/libexample.a 

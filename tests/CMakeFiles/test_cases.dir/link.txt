@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../lib/libtest_cases.a CMakeFiles/test_cases.dir/test_crypt.cpp.o
-/usr/bin/ranlib ../lib/libtest_cases.a

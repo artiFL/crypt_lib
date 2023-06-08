@@ -1,3 +1,0 @@
-C:/Users/flegler.a/Desktop/CMake_test/build/CMakeFiles/MyExample.dir
-C:/Users/flegler.a/Desktop/CMake_test/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/flegler.a/Desktop/CMake_test/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/run_tests.dir/main.cpp.o -o ../bin/run_tests  ../lib/libCppUTest.a ../lib/libCppUTestExt.a ../lib/libtest_cases.a ../lib/libCppUTest.a 

@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.5)
 project (Tutorial)
 
 enable_language(CXX)
-add_compile_options(-std=c++17 -Wall -Werror -lstdc++ ${PROJECT_BINARY_DIR}/source -g)
+add_compile_options(-std=c++17 -Wall -Werror -lstdc++ -g)
 
 set(APP_NAME exa)
 set(APP_LIB_NAME example)
